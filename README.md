@@ -8,6 +8,7 @@ For the NoSQL database, you may use MongoDB, Neo4j, or another NoSQL database of
 
 Your migration process needs to be reproducible. You should also briefly describe the advantages and disadvantages of storing the data in a relational database vs your NoSQL database.
 Overall Take any use case.  Implement the backend using any NoSql database format. 
-Create a simple interface to show the results
+Create a simple interface to show the results.
 
-. You should conclude your work with pointers included for future work.
+
+You should conclude your work with pointers included for future work.
