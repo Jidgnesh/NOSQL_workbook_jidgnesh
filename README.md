@@ -1,10 +1,10 @@
 # NOSQL_workbook_jidgnesh
 
-You should take information from a relational database and migrate it to a NoSQL database of your own choosing.
+#You should take information from a relational database and migrate it to a NoSQL database of your own choosing.
 
-For the relational database, you might use the flight's database, any applicable database.
+#For the relational database, you might use the flight's database, any applicable database.
 
-For the NoSQL database, you may use MongoDB, Neo4j, or another NoSQL database of your choosing.
+#For the NoSQL database, you may use MongoDB, Neo4j, or another NoSQL database of your choosing.
 
 Your migration process needs to be reproducible. R/Python code is encouraged. You should also briefly describe the advantages and disadvantages of storing the data in a relational database vs. your NoSQL database.
 
